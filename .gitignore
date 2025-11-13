@@ -1,0 +1,14 @@
+# Dependencias
+node_modules/
+
+# Archivos de configuración y secretos
+config.js 
+
+# Logs
+*.log
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema operativo
+.DS_Store
